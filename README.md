@@ -105,7 +105,7 @@ python Linear_search.py
 
 📌 Example Outputs:
 
-Stack (Array Implementation):
+👉 Stack (Array Implementation):
 
 Stack elements: [10, 20, 30]
 
@@ -117,7 +117,7 @@ Top element: 20
 
 Is stack empty? False
 
-Stack (Linked List Implementation):
+👉 Stack (Linked List Implementation):
 
 Stack is empty
 
@@ -129,7 +129,7 @@ Peek: 20
 
 20->10->None
 
-Queue (Array Implementation):
+👉 Queue (Array Implementation):
 
 Enqueued 30
 
@@ -145,7 +145,7 @@ front element 50
 
 Queue elements: 50 9
 
-Queue (Linked List Implementation):
+👉 Queue (Linked List Implementation):
 
 Enqueued 10
 
@@ -161,7 +161,7 @@ Front element: 20
 
 Queue elements: 20 30
 
-BST:
+👉 BST:
 
 Preorder:3 5 4 6 7 8 12 45 
 
@@ -183,7 +183,7 @@ True
 
 True
 
-Sorting:
+👉 Sorting:
 
 Original: [5, 2, 9, 1, 6]
 
@@ -193,7 +193,7 @@ Merge Sort:  [1, 2, 5, 6, 9]
 
 Quick Sort:  [1, 2, 5, 6, 9]
 
-Searching:
+👉 Searching:
 
 Array: [2, 4, 6, 8, 10]
 
