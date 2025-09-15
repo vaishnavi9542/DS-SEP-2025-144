@@ -1,6 +1,6 @@
 👤 Student Info
 
-Name: Vaishnavi
+Name: Vadla Vaishnavi
 
 Registration Number: 144
 
