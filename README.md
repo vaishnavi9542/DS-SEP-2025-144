@@ -49,6 +49,7 @@ isEmpty() – Check if queue is empty
 
 display() – Show elements
 
+
 📌 Task 2: Binary Search Tree (BST)
 
 File in Repo:Binary_search_tree.py
@@ -62,6 +63,7 @@ Searching
 Traversals: In-order, Pre-order, Post-order
 
 Bonus: Deletion of nodes
+
 
 📌 Task 3: Sorting and Searching
 
@@ -83,6 +85,7 @@ Linear_search.py – Linear Search
 
 Binary_search.py – Binary Search (iterative + recursive inside one file)
 
+
 📌 How to Run
 
 ✅ Clone the repository:
@@ -102,6 +105,7 @@ python bst.py
 python Bubble_sort.py
 
 python Linear_search.py
+
 
 📌 Example Outputs:
 
