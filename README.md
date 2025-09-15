@@ -13,7 +13,7 @@ Course: Data Structures Assignment – September 2025
 
 Files in Repo:
 
-Stack_using_array.pyStack_using_arrays.py → Stack using fixed-size array
+Stack_using_array.py → Stack using fixed-size array
 
 Stack_using_LL.py → Stack using linked list
 
