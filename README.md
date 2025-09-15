@@ -85,13 +85,13 @@ Binary_search.py – Binary Search (iterative + recursive inside one file)
 
 📌 How to Run
 
-Clone the repository:
+✅ Clone the repository:
 
 git clone https://github.com/vaishnavi9542/DS-SEP-2025-144.git
 
 cd DS-SEP-2025-144
 
-Run any program file individually, for example:
+✅ Run any program file individually, for example:
 
 python Stack_using_array.py
 
