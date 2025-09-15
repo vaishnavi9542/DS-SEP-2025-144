@@ -10,15 +10,23 @@ Course: Data Structures Assignment – September 2025
 📌 Task 1: Stack and Queue
 
 ✅ Stack
+
 Files in Repo:
+
 Stack_using_array.pyStack_using_arrays.py → Stack using fixed-size array
+
 Stack_using_LL.py → Stack using linked list
 
 Operations Implemented:
+
 push() – Insert element
+
 pop() – Remove top element
+
 peek() – View top element
+
 isEmpty() – Check if stack is empty
+
 display() – Show elements
 
 ✅ Queue
